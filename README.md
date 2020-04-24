@@ -11,3 +11,6 @@ Learn how to create various screen layout.
 
 ### Custom List View App
 ![MyListviewApp](https://user-images.githubusercontent.com/34413373/79878407-581bda00-8428-11ea-9fa3-8d545e273078.gif)
+
+### Flip Card Effect App
+![FlipCardEffectApp](https://user-images.githubusercontent.com/34413373/80216815-9e1bac80-8679-11ea-9888-1d0fa7c5a170.gif)
