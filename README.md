@@ -14,3 +14,8 @@ Learn how to create various screen layout.
 
 ### Flip Card Effect App
 ![FlipCardEffectApp](https://user-images.githubusercontent.com/34413373/80216815-9e1bac80-8679-11ea-9888-1d0fa7c5a170.gif)
+
+### Recycler View Animation App
+![FallDown](https://user-images.githubusercontent.com/34413373/80393596-ac70ff00-88eb-11ea-989a-2ba8d2a4ff5c.gif)
+![SlideFromBottom](https://user-images.githubusercontent.com/34413373/80393600-ada22c00-88eb-11ea-9024-ca115904addd.gif)
+![SlideFromRight](https://user-images.githubusercontent.com/34413373/80393602-ada22c00-88eb-11ea-967e-98cd34173756.gif)
