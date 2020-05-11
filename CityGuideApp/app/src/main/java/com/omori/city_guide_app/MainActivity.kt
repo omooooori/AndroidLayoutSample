@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         bottomAnim = AnimationUtils.loadAnimation(this,R.anim.bottom_anim)
 
         iv_app_splash_img.animation = slideAnim
-        tv_powerd_by.animation = bottomAnim
+        tv_powered_by.animation = bottomAnim
 
         Handler().postDelayed(Runnable {
             intent = Intent(this, UserDashboardActivity::class.java)
